@@ -20,3 +20,28 @@ Do you need the data for usage? Just go in there and take it! I don't care it's 
 are you using the class / data? 
 
 please contribute to the repo.
+
+
+##Contributing:
+Every one loves contributers, but yes there is a but: only when their contributes are usefull, to improve the flow of everything please use this example as dockblock header (of course with your own data)
+
+	/**
+	 *  Simple country display, only country codes and the names displayed
+	 *  
+	 * 	@group			countries
+	 * 	@name			simple
+	 * 	@type			php
+	 * 	@date   		25-03-2015
+	 * 	@author 		Matti van de Weem <mvdweem@gmail.com>
+	 * 	@contributors :
+	 */
+
+And keep the same structure as the other files:
+
+ - always return someting
+ - make verry,verry,verry clear what is returning
+ - keep it simple
+ 
+####for a valid example check `src/data/countries/simple.php
+
+ 
