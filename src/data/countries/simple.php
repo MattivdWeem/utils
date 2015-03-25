@@ -2,9 +2,12 @@
 /**
  *  Simple country display, only country codes and the names displayed
  *  
- *  @date   		25-03-2015
- *  @author 		Matti van de Weem <mvdweem@gmail.com>
- *	@contributors :
+ * 	@group			countries
+ * 	@name			simple
+ * 	@type			php
+ * 	@date   		25-03-2015
+ * 	@author 		Matti van de Weem <mvdweem@gmail.com>
+ * 	@contributors :
  */
 
 return array
